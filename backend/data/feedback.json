@@ -1,0 +1,155 @@
+[
+  {
+    "id": "fb_e9d02cb6",
+    "customer": "santhosh",
+    "source": "Review",
+    "product_area": "Dashboard",
+    "date": "2026-09-28",
+    "feedback": "The dashboard takes too long to load.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard loading time is too long",
+      "summary": "The dashboard loads slowly, causing delays."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_698b4a67",
+    "customer": "Grace",
+    "source": "Review",
+    "product_area": "Features",
+    "date": "2026-09-27",
+    "feedback": "The AI summary feature saves me hours of feedback reading every week.",
+    "analysis": {
+      "theme": "Features",
+      "product_area": "Features",
+      "sentiment": "Positive",
+      "issue": "Praise for AI summary feature saving time",
+      "summary": "The AI summary feature saves hours of feedback reading each week."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_45743e9e",
+    "customer": "Tom",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-17",
+    "feedback": "Dashboard response times are blocking our morning standup.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Slow response times hindering daily standup meetings",
+      "summary": "Dashboard performance is too slow, blocking the team's morning standup."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_d5df468a",
+    "customer": "Vikram",
+    "source": "Email",
+    "product_area": "Dashboard",
+    "date": "2026-09-21",
+    "feedback": "Dashboard now loads in under 2 seconds. Satisfied!",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for faster load time (under 2 seconds)",
+      "summary": "Dashboard now loads in under 2 seconds, and the customer is satisfied."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_a3a128f1",
+    "customer": "Rahul",
+    "source": "Support",
+    "product_area": "Dashboard",
+    "date": "2026-09-19",
+    "feedback": "The dashboard is much faster now! Great job on the update.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for increased speed after update",
+      "summary": "User is happy with the dashboard's faster performance following the recent update."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_13e1f747",
+    "customer": "Alex",
+    "source": "Support",
+    "product_area": "Reports",
+    "date": "2026-09-26",
+    "feedback": "Reports export rapidly now after the v2.5 patch.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Reports",
+      "sentiment": "Positive",
+      "issue": "Export speed is now rapid after v2.5 patch",
+      "summary": "Reports export has become much faster following the v2.5 update."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_0b668728",
+    "customer": "Daniel",
+    "source": "Support",
+    "product_area": "Reports",
+    "date": "2026-09-23",
+    "feedback": "Dashboard is fixed, but report generation is still laggy.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Reports",
+      "sentiment": "Negative",
+      "issue": "Report generation remains laggy despite dashboard fix",
+      "summary": "Dashboard issue resolved, but report generation is still slow"
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_c543bfcd",
+    "customer": "Chloe",
+    "source": "Review",
+    "product_area": "UI/UX",
+    "date": "2026-09-22",
+    "feedback": "Clean aesthetics and fast data updates on the main feed.",
+    "analysis": {
+      "theme": "UI/UX",
+      "product_area": "UI/UX",
+      "sentiment": "Positive",
+      "issue": "Praise for clean aesthetics and fast data updates on the main feed",
+      "summary": "The user appreciates the clean design and rapid data refresh of the main feed."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_b5ca887d",
+    "customer": "Maya",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-24",
+    "feedback": "Noticeably snappier dashboard performance since yesterday.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for noticeably faster dashboard performance",
+      "summary": "Dashboard feels noticeably faster since yesterday."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  }
+]

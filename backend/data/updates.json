@@ -1,0 +1,83 @@
+[
+  {
+    "id": "up_c7c8ae3a",
+    "version": "v2.9",
+    "product_area": "Pricing",
+    "date": "2026-09-28",
+    "change": "apple",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_00c8f3ba",
+    "version": "v2.8",
+    "product_area": "Reports",
+    "date": "2026-09-28",
+    "change": "Improved report generation performance.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_ede6682e",
+    "version": "v2.7",
+    "product_area": "Reports",
+    "date": "2026-09-28",
+    "change": "Added instant async PDF report generator.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_fa3299c8",
+    "version": "v2.5",
+    "product_area": "Reports",
+    "date": "2026-09-25",
+    "change": "Improved report generation speed and added background PDF export worker.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_7fcda2b6",
+    "version": "v2.4",
+    "product_area": "Dashboard",
+    "date": "2026-09-18",
+    "change": "Optimized dashboard loading performance, reduced query latencies, and added caching.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_19459206",
+    "version": "v2.3",
+    "product_area": "Navigation",
+    "date": "2026-09-02",
+    "change": "Redesigned navigation bar and sidebar layout for cleaner user experience.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_5e0b0305",
+    "version": "v2.2",
+    "product_area": "Search",
+    "date": "2026-08-25",
+    "change": "Improved search relevance and indexing speed for customer records.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_638a5493",
+    "version": "v2.4",
+    "product_area": "Dashboard",
+    "date": "2026-09-20",
+    "change": "Optimized dashboard loading performance and query latencies.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "up_0ffaff17",
+    "version": "v2.6",
+    "product_area": "Dashboard",
+    "date": "2026-09-28",
+    "change": "Optimized dashboard loading performance and query latencies.",
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  }
+]
