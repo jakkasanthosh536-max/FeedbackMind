@@ -20,6 +20,11 @@ def load_feedback() -> List[Dict[str, Any]]:
         return []
 
 def save_feedback(items: List[Dict[str, Any]]):
+    # Vercel's deployment filesystem is read-only.
+    # Hindsight Cloud is used for persistent feedback memory.
+    if os.environ.get("VERCEL"):
+        return
+
     _ensure_dir()
     with open(FEEDBACK_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2)
@@ -35,6 +40,10 @@ def load_updates() -> List[Dict[str, Any]]:
         return []
 
 def save_updates(items: List[Dict[str, Any]]):
+    # Vercel's deployment filesystem is read-only.
+    if os.environ.get("VERCEL"):
+        return
+
     _ensure_dir()
     with open(UPDATES_FILE, "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2)
