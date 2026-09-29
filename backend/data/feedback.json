@@ -1,5 +1,430 @@
 [
   {
+    "id": "fb_873d5847",
+    "customer": "Maya",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-24",
+    "feedback": "Noticeably snappier dashboard performance since yesterday.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for noticeably faster dashboard performance",
+      "summary": "User reports a noticeably snappier dashboard performance since yesterday."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_b5f6c7b2",
+    "customer": "Grace",
+    "source": "Review",
+    "product_area": "Features",
+    "date": "2026-09-27",
+    "feedback": "The AI summary feature saves me hours of feedback reading every week.",
+    "analysis": {
+      "theme": "Features",
+      "product_area": "Features",
+      "sentiment": "Positive",
+      "issue": "Praise for AI summary feature saving time",
+      "summary": "The AI summary feature saves hours of feedback reading each week."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_78d8774a",
+    "customer": "Alex",
+    "source": "Support",
+    "product_area": "Reports",
+    "date": "2026-09-26",
+    "feedback": "Reports export rapidly now after the v2.5 patch.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Reports",
+      "sentiment": "Positive",
+      "issue": "Export speed for reports is now rapid after v2.5 patch",
+      "summary": "Export speed for reports improved significantly after the v2.5 patch."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_86816bfc",
+    "customer": "Daniel",
+    "source": "Support",
+    "product_area": "Reports",
+    "date": "2026-09-23",
+    "feedback": "Dashboard is fixed, but report generation is still laggy.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Reports",
+      "sentiment": "Negative",
+      "issue": "Report generation remains laggy despite dashboard fix",
+      "summary": "Dashboard issue resolved, but report generation is still slow"
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_5c475517",
+    "customer": "Chloe",
+    "source": "Review",
+    "product_area": "UI/UX",
+    "date": "2026-09-22",
+    "feedback": "Clean aesthetics and fast data updates on the main feed.",
+    "analysis": {
+      "theme": "UI/UX",
+      "product_area": "UI/UX",
+      "sentiment": "Positive",
+      "issue": "Praise for clean aesthetics and fast data updates on the main feed",
+      "summary": "User appreciates the clean look and quick updates of the main feed."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_08af5e9a",
+    "customer": "Vikram",
+    "source": "Email",
+    "product_area": "Dashboard",
+    "date": "2026-09-21",
+    "feedback": "Dashboard now loads in under 2 seconds. Satisfied!",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for faster load time under 2 seconds",
+      "summary": "User is satisfied with the dashboard now loading in under 2 seconds"
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_90d6ea4a",
+    "customer": "Kavita",
+    "source": "Support",
+    "product_area": "Reliability",
+    "date": "2026-09-16",
+    "feedback": "System uptime has been unstable this past week.",
+    "analysis": {
+      "theme": "Reliability",
+      "product_area": "Reliability",
+      "sentiment": "Negative",
+      "issue": "Unstable system uptime over the past week",
+      "summary": "Kavita reports that system uptime has been unstable this past week."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_0ed94db4",
+    "customer": "Rahul",
+    "source": "Support",
+    "product_area": "Dashboard",
+    "date": "2026-09-19",
+    "feedback": "The dashboard is much faster now! Great job on the update.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for increased speed after update",
+      "summary": "User is happy with the faster dashboard performance after the recent update."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_5cb33241",
+    "customer": "Sarah",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-20",
+    "feedback": "Huge improvement on dashboard speed after v2.4 optimization.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Positive",
+      "issue": "Praise for significant speed improvement after v2.4 optimization",
+      "summary": "User notes a huge improvement in dashboard speed following the v2.4 optimization."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_3b28d318",
+    "customer": "Lucas",
+    "source": "Email",
+    "product_area": "Dashboard",
+    "date": "2026-09-15",
+    "feedback": "Dashboard is freezing our browser tab when switching date ranges.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard freezes the browser tab when switching date ranges",
+      "summary": "The dashboard freezes the browser tab when changing date ranges."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_88554ac3",
+    "customer": "Tom",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-17",
+    "feedback": "Dashboard response times are blocking our morning standup.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Slow dashboard response times hindering daily standup",
+      "summary": "Dashboard performance is too slow, blocking the morning standup."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_31bdee39",
+    "customer": "Sophia",
+    "source": "Survey",
+    "product_area": "Pricing",
+    "date": "2026-09-14",
+    "feedback": "Annual billing plan discount is very attractive and worth it.",
+    "analysis": {
+      "theme": "Pricing",
+      "product_area": "Pricing",
+      "sentiment": "Positive",
+      "issue": "Praise for the attractive and worthwhile annual billing plan discount",
+      "summary": "The customer finds the annual billing plan discount very attractive and worth it."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_b2800bff",
+    "customer": "Anita",
+    "source": "Survey",
+    "product_area": "Navigation",
+    "date": "2026-09-10",
+    "feedback": "Love the sleek new navigation sidebar from v2.3 release.",
+    "analysis": {
+      "theme": "UI/UX",
+      "product_area": "Navigation",
+      "sentiment": "Positive",
+      "issue": "Praise for the sleek new navigation sidebar introduced in v2.3",
+      "summary": "Customer loves the sleek new navigation sidebar in the v2.3 release."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_eea94dc8",
+    "customer": "Hannah",
+    "source": "Review",
+    "product_area": "Features",
+    "date": "2026-09-12",
+    "feedback": "Please add CSV export options for filtered feedback tables.",
+    "analysis": {
+      "theme": "Features",
+      "product_area": "Features",
+      "sentiment": "Neutral",
+      "issue": "No CSV export option for filtered feedback tables",
+      "summary": "Add CSV export option for filtered feedback tables."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_133c75fa",
+    "customer": "Vikram",
+    "source": "Support",
+    "product_area": "Dashboard",
+    "date": "2026-09-11",
+    "feedback": "Dashboard load time is over 20 seconds. Fix this ASAP.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard load time exceeds 20 seconds",
+      "summary": "The dashboard loads slowly, taking over 20 seconds, and requires immediate fixing."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_0ecdf31f",
+    "customer": "Rahul",
+    "source": "Support",
+    "product_area": "Dashboard",
+    "date": "2026-09-01",
+    "feedback": "The dashboard takes too long to load.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard loads slowly",
+      "summary": "The dashboard takes too long to load."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_0f74f428",
+    "customer": "Carlos",
+    "source": "Email",
+    "product_area": "Dashboard",
+    "date": "2026-09-09",
+    "feedback": "The dashboard is unbearably slow. My team cannot track daily KPIs.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard is unbearably slow, preventing KPI tracking",
+      "summary": "The dashboard is extremely slow, hindering the team's ability to track daily KPIs."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_a7573534",
+    "customer": "Omar",
+    "source": "Support",
+    "product_area": "Reports",
+    "date": "2026-09-13",
+    "feedback": "Report export keeps failing with internal server error.",
+    "analysis": {
+      "theme": "Reliability",
+      "product_area": "Reports",
+      "sentiment": "Negative",
+      "issue": "Report export fails with internal server error",
+      "summary": "Report export consistently fails due to an internal server error."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_34ccc6f8",
+    "customer": "Alex",
+    "source": "Review",
+    "product_area": "Reports",
+    "date": "2026-09-03",
+    "feedback": "Reports take forever to open and often crash.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Reports",
+      "sentiment": "Negative",
+      "issue": "Reports load very slowly and often crash",
+      "summary": "Reports are slow to open and frequently crash"
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_c35a5d01",
+    "customer": "Elena",
+    "source": "Email",
+    "product_area": "Navigation",
+    "date": "2026-09-04",
+    "feedback": "Where did the settings menu go? The navigation layout is confusing.",
+    "analysis": {
+      "theme": "UI/UX",
+      "product_area": "Navigation",
+      "sentiment": "Negative",
+      "issue": "Settings menu missing and navigation layout is confusing",
+      "summary": "User cannot locate the settings menu because the navigation layout is confusing"
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_da7d3a6d",
+    "customer": "Michael",
+    "source": "Support",
+    "product_area": "Pricing",
+    "date": "2026-09-05",
+    "feedback": "The tier pricing is too expensive for small teams.",
+    "analysis": {
+      "theme": "Pricing",
+      "product_area": "Pricing",
+      "sentiment": "Negative",
+      "issue": "Tier pricing is too expensive for small teams",
+      "summary": "The tier pricing is too costly for small teams."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_bdf2ad83",
+    "customer": "Priya",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-06",
+    "feedback": "Every time I open the dashboard, I see a spinning loader for 15 seconds.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Dashboard loads slowly with a 15-second spinner",
+      "summary": "The dashboard consistently shows a spinning loader for about 15 seconds on each opening."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_9efc518f",
+    "customer": "Sarah",
+    "source": "Survey",
+    "product_area": "Dashboard",
+    "date": "2026-09-02",
+    "feedback": "The dashboard is still extremely slow when rendering charts.",
+    "analysis": {
+      "theme": "Performance",
+      "product_area": "Dashboard",
+      "sentiment": "Negative",
+      "issue": "Charts render extremely slowly on the dashboard",
+      "summary": "The dashboard is very slow when rendering charts."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_8f4bb537",
+    "customer": "David",
+    "source": "Review",
+    "product_area": "Search",
+    "date": "2026-09-07",
+    "feedback": "Search is working well now after the v2.2 update!",
+    "analysis": {
+      "theme": "Reliability",
+      "product_area": "Search",
+      "sentiment": "Positive",
+      "issue": "Search functionality is working well after the v2.2 update",
+      "summary": "The customer is pleased that search now works well following the v2.2 update."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
+    "id": "fb_c70ab2d9",
+    "customer": "Jessica",
+    "source": "Support",
+    "product_area": "Reliability",
+    "date": "2026-09-08",
+    "feedback": "Frequent 504 gateway timeout errors during peak afternoon hours.",
+    "analysis": {
+      "theme": "Reliability",
+      "product_area": "Reliability",
+      "sentiment": "Negative",
+      "issue": "Frequent 504 gateway timeout errors during peak afternoon hours",
+      "summary": "Experiencing frequent 504 gateway timeout errors during peak afternoon hours."
+    },
+    "hindsight_status": "Memory Stored",
+    "hindsight_detail": "Memory Stored (ID: stored)"
+  },
+  {
     "id": "fb_10346573",
     "customer": "Test User",
     "source": "Support",
