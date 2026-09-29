@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.routes.api import router as api_router
+try:
+    from backend.routes.api import router as api_router
+except ImportError:
+    from routes.api import router as api_router
 
 app = FastAPI(
     title="FeedbackMind API",

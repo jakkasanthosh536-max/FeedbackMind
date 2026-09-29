@@ -16,14 +16,7 @@ export const getApiBase = () => {
     return customBase.endsWith('/') ? customBase.slice(0, -1) : customBase;
   }
 
-  if (typeof window !== 'undefined' && window.location && window.location.hostname) {
-    const host = window.location.hostname;
-    if (host !== 'localhost' && host !== '127.0.0.1' && !host.startsWith('192.168.') && !host.startsWith('10.')) {
-      return '';
-    }
-  }
-
-  return 'http://127.0.0.1:8000';
+  return '';
 };
 
 export const safeFetch = async (path, options = {}) => {
