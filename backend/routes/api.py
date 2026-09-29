@@ -14,7 +14,6 @@ from backend.services.hindsight_service import hindsight_service
 from backend.services.llm_service import llm_service
 from backend.services.insight_service import insight_service
 from backend.storage import load_feedback, load_updates
-from seed.seed_data import run_seed
 
 router = APIRouter(prefix="/api")
 
@@ -111,6 +110,10 @@ def get_product_updates():
 @router.post("/seed")
 def seed_demo_data():
     try:
+        try:
+            from seed.seed_data import run_seed
+        except ImportError:
+            from backend.seed.seed_data import run_seed
         run_seed()
         return {"status": "success", "message": "Demo data populated into Hindsight Cloud and database successfully."}
     except Exception as e:
