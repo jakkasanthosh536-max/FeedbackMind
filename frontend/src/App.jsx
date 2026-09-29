@@ -6,28 +6,7 @@ import {
   TrendingUp, Activity, Check, Filter, Calendar, FileText
 } from 'lucide-react';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://127.0.0.1:8000';
-
-const safeFetch = async (path, options = {}) => {
-  const url = path.startsWith('http') ? path : `${API_BASE}${path}`;
-  const response = await fetch(url, options);
-  const text = await response.text();
-  let data = null;
-  if (text) {
-    try {
-      data = JSON.parse(text);
-    } catch (e) {
-      // Non-JSON text response
-    }
-  }
-
-  if (!response.ok) {
-    const detail = data && (data.detail || data.message) ? (data.detail || data.message) : (text || `HTTP ${response.status}: ${response.statusText}`);
-    throw new Error(detail);
-  }
-
-  return data || {};
-};
+import { safeFetch } from './api';
 
 const formatDisplayDate = (isoStr) => {
   if (!isoStr) return '';

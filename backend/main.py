@@ -8,10 +8,17 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# CORS configuration allowing React frontend
+# CORS configuration allowing React frontend in local & production environments
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "https://feedback-mind-delta.vercel.app",
+        "*"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

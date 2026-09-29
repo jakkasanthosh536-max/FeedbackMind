@@ -76,7 +76,7 @@
     "version": "v2.6",
     "product_area": "Dashboard",
     "date": "2026-09-28",
-    "change": "Optimized dashboard loading performance and query latencies.",
+    "change": "Added instant search filters.",
     "hindsight_status": "Memory Stored",
     "hindsight_detail": "Memory Stored (ID: stored)"
   }
