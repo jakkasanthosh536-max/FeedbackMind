@@ -1,3 +1,6 @@
+..live demo = https://feedback-mind-delta.vercel.app/
+..demo video = https://youtu.be/xlk7rspMg7E?si=cHjfkg2RrpjJuRa2
+
 # FeedbackMind 🧠⚡
 
 > **AI Customer Feedback Synthesizer powered by Hindsight Cloud Persistent Memory & Groq LLMs**
